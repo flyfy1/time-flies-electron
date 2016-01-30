@@ -1,30 +1,16 @@
-# electron-quick-start
+# Time Flies (Electron)
 
-**Clone and run for a quick way to see an Electron in action.**
+This is the electron version of the simple [time
+flies](http://flyfy1.github.io/time-flies/) page.
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
+## How to Run
 
-A basic Electron application needs just these files:
+    # after clone the project
+    npm install
+    npm start
 
-- `index.html` - A web page to render.
-- `main.js` - Starts the app and creates a browser window to render HTML.
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-
-You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
-
-## To Use
-
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-git clone https://github.com/atom/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies and run the app
-npm install && npm start
-```
-
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
+### Thanks To
+[Electron](http://electron.atom.io/)
+[Electron Quick Starter](https://github.com/atom/electron-quick-start)
 
 #### License [CC0 (Public Domain)](LICENSE.md)
