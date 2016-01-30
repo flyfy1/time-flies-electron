@@ -5,7 +5,7 @@ flies](http://flyfy1.github.io/time-flies/) page.
 
 Here's a screen shot:
 
-![Screenshot](/docs/screenshot-01.png?raw=true "Screenshot")
+![Screenshot](https://dl.dropboxusercontent.com/u/9778027/images/screenshot-01.png "Screenshot")
 
 
 ## How to Run
