@@ -3,6 +3,11 @@
 This is the electron version of the simple [time
 flies](http://flyfy1.github.io/time-flies/) page.
 
+Here's a screen shot:
+
+![Screenshot](/docs/screenshot-01.png?raw=true "Screenshot")
+
+
 ## How to Run
 
     # after clone the project
